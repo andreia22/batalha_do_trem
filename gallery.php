@@ -44,13 +44,7 @@ if($_SESSION['cargo_usuario'] != 'Administrador' && $_SESSION['cargo_usuario'] !
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: PhotoFolio
-  * Updated: Sep 18 2023 with Bootstrap v5.3.2
-  * Template URL: https://bootstrapmade.com/photofolio-bootstrap-photography-website-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+  
 </head>
 
 <body>
@@ -60,8 +54,7 @@ if($_SESSION['cargo_usuario'] != 'Administrador' && $_SESSION['cargo_usuario'] !
     <div class="container-fluid d-flex align-items-center justify-content-between">
 
       <a href="index.html" class="logo d-flex align-items-center  me-auto me-lg-0">
-        <!-- Uncomment the line below if you also wish to use an image logo -->
-        <!--<i class="bi bi-arrow-up-short"></i> -->
+       
         <i class="bi bi-train-front"></i>
         <h1>BatalhaDoTrem</h1>
       </a>
@@ -70,6 +63,7 @@ if($_SESSION['cargo_usuario'] != 'Administrador' && $_SESSION['cargo_usuario'] !
         <ul>
           <li><a href="gallery-single.php">Home</a></li>
           <li><a href="gallery_2.php">Galria 2</a></li>
+          <li><a href="inclusao.php">Inclusão</a></li>
           <li><a href="contact.html">Contato</a></li>
         </ul>
       </nav><!-- .navbar -->
@@ -506,7 +500,6 @@ if($_SESSION['cargo_usuario'] != 'Administrador' && $_SESSION['cargo_usuario'] !
   <footer id="footer" class="footer">
     <div class="container">
       <div class="copyright">
-       <!-- &copy; Copyright <strong><span>PhotoFolio</span></strong>. All Rights Reserved -->
       </div>
       <div class="credits">
        

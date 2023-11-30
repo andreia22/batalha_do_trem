@@ -62,7 +62,8 @@ if($_SESSION['cargo_usuario'] != 'Administrador' && $_SESSION['cargo_usuario'] !
             <li><a href="gallery-single.php">Home</a></li>
           <li><a href="gallery.php">Galria 1</a></li>
           <li><a href="gallery_2.php">Galria 2</a></li>
-          <li><a href="inclusao2.php">Iclusão 2</a></li>
+          <li><a href="inclusao.php">Iclusão</a></li>
+          <li><a href="inclusao3.php">Iclusão 3</a></li>
           <li><a href="contact.html">Contato</a></li>
         </ul>
       </nav><!-- .navbar -->
@@ -102,50 +103,51 @@ if($_SESSION['cargo_usuario'] != 'Administrador' && $_SESSION['cargo_usuario'] !
 
         <div class="row gy-4 justify-content-center">
           <div class="col-lg-6">
-            <img src="./assets/img/vera-veronija.jpg" class="img-fluid"  alt="">
+            <img src="./img/img_texto2.png" class="img-fluid"  alt="">
 
             <p class="py-3">
-            A primeira mulher a fazer rap no DF, Vera Veronika, de 38 anos, participa da cena musical do rap há 25 anos e afirma que ainda existem muitas canções com letras machistas
-             que tratam a mulher de forma reduzida e preconceituosa, mas que a produção de música de qualidade por parte das mulheres está melhorando a situação. Para lutar pela sua causa, 
-             Vera aderiu à Frente Nacional das Mulheres do Hip Hop que estará se reunindo dos dias 16 ao 18 de setembro, no estado de São Paulo. O movimento defende a posição da mulher no
-              hip hop e luta por igualdade e respeito. “Esse é o tipo de coisa que as mulheres do rap tentam combater”, afirma a pioneira. Vera também faz a observação de que o rap também 
-              é música e que aborda temáticas ativistas e de reflexão.
-
-            Segundo ela, as pessoas começam a perceber melhor essa condição com a ascensão de artistas como Karol konká. A rapper também cita a música “Eu tava lá” lançada pela artista
-             Lívia Cruz em resposta à música “Quem tava lá”, do grupo Costa Gold que teria conteúdo ofensivo às mulheres e que excluiria elas do momento de iniciação do rap no Brasil como 
-             um exemplo da luta da mulher no hip hop. “A música da Lívia é um desabafo”, lembra Vera.
+            “Somos o primeiro coletivo de rap LGBTQIA+ do Brasil, e talvez do mundo”, afirmam em uníssono na entrevista à Vogue. Com essa credencial, os
+             cinco – a DJ Apuke saiu do coletivo mês passado – unem a performance às músicas. No lugar de calças oversized, corrente no pescoço e
+              tênis demarcas esportivas típicos dos rappers heterossexuais, o quinteto investe na montação, com referências de moda, o que também
+               pode ser visto em letras como “ABC do QQ”, parte do novo disco: “Fala mal de mim, sou ref de fã encubada/trajando kit Gucci do brechó 
+               da quebrada”. O grupo, que começou criando as próprias produções nos “brechós das quebradas”, como cantam, tiveram recentemente o styling
+                de looks assinados pela dupla Membrana, que já vestiu Linn da Quebrada e Ludmilla.
+               
+                Com 10 faixas compostas pelos seis então integrantes (incluindo Apuke) e produzidas por  Apuke, Comboio Records, Skye e NxName, 
+                o disco permeia ritmos brasileiros como o funk e o pagodão baiano, sem deixar o rap, oR&B e o trap de lado. “Este single tem elementos 
+                futuristas, mas dialoga com o funk carioca dos anos 2000. E, dentro disso, demos o start no que seria o Holoforte”, conta Guigo, cantor 
+                do coletivo, sobre a música “ABC do QQ”, carro-chefe do álbum.
             </p>
           </div>
           
           <div class="col-lg-6 content">
-            <h2>Versos machistas e agressivos viram “armas” em batalhas de rap</h2>
+            <h2>Conheça o Quebrada Queer, coletivo de rap LGBTQIA+, que lança primeiro disco ‘Holoforte’
+            O coletivo busca pavimentar o caminho para que mais artistas LGBTQIA+ ocupem a</h2>
             <p class="fst-italic py-3">
-            Mulheres que cantam rap e hip hop passaram a ser vítimas de machismo e versos agressivos nas chamadas batalhas mistas de rap no Distrito Federal. 
-            Em eventos assim,  duas pessoas (um homem e uma mulher) se confrontam com rimas com o objetivo de derrotar o oponente. As participantes reclamam das práticas. 
-            A MC Estéfane Câmara, 21 anos, conhecida como Marciana e membro do grupo Batalha das Gurias, conta que em sua primeira batalha mista teve de assumir uma posição
-             mais defensiva para se esquivar de agressões machistas.
+            Há três anos, cinco jovens de cantos diferentes da periferia de São Paulo se encontraram no mundo real e virtual.
+             Entre likes recíprocos nas redes sociais e backstages de shows, os artistas de hip-hop Harlley, Murillo, Guigo, Boombeat
+              e Tchelo decidiram unir rimas. Rappers gays e queers, formaram o coletivo Quebrada Queer, um fenômeno musical e cultural
+               pioneiro e muito, muito potente.
 
-          “Uma vez ou outra eu escutava que era melhor eu estar lavando louça ou cuidando de casa.”, afirmou a rapper. Segundo ela, a reação do público nessas batalhas é um reflexo da sociedade, 
-          tendo uma grande aceitação de piadas machistas, porém esse comportamento varia de batalhas em batalhas, inclusive ocorrendo vaias contra rimas misóginas. Estéfane afirma que as mulhere
-          s são apagadas e ignoradas na cena do rap e que elas estão tentando ocupar o seu espaço com material de qualidade. “Mulher também faz rap e não é de hoje, já faz anos e não sei por
-           que as pessoas não nos valorizam”, reclama a rapper.
+               A primeira música, com o mesmo nome do grupo, foi feita no formato chamado “cypher”, marca registrada do Quebrada, em que cada rapper entra
+                com seus versos. São rimas que denunciam o racismo, a homofobia e outros ataques a minorias. No Spotify, o single contabiliza quase 2,5 milhões
+                 de reproduções. Agora, o coletivo se prepara para realizar a turnê do primeiro álbum de estúdio chamado Holoforte, com lançamento previsto para o 
+                 dia 28 deste mês.
             </p>
 
            
             <p class="m-0">
-            O rapper Afroragga, do grupo Movni, participa das batalhas de rima e de improviso há 12 anos. Segundo ele, as mulheres são essenciais na cultura de rua e essa ideia 
-            de um rap misógino é fruto de uma divisão do gênero musical. “Têm os rappers que falam de carro e mulheres e tem os rappers que são pessoas maduras, que respeitam as mulheres, 
-            que se respeitam como ser humano, independentemente do gênero”. Afroragga ressalta que o princípio fundamental da cultura Hip Hop é sua luta pela liberdade, por igualdade social, 
-            é uma luta contra qualquer tipo de segregação e que as batalhas de rima são uma maneira de vencer o outro sem usar a violência. “É uma batalha resolvida na poesia, nas ideias”, 
-            afirma o rapper.
+            Depois de quase dois anos de pandemia sem poder fazer shows, o Quebrada pretende, com o novo projeto, retomar o ritmo que viveu em 2019,
+             quando também tocou no Rock in Rio e na Parada do Orgulho LGBT de São Paulo. “Este momento marca o que estamos colhendo de tudo o que a
+              gente plantou. É o fruto do nosso amadurecimento”, diz a cantora Boombeat. “Nos shows, as pessoas vão conseguir nos perceber como grupo. 
+              Vai ser uma experiência muito diferente”, completa o rapper Murillo.
 
-            Segundo o professor de musicologia da UFMG, Carlos Palombini, letras machistas e de caráter heteronormativo sempre existiram na música brasileira e em outros gêneros 
-            como no Blues afro-norte americano. Palombini afirma que pode-se observar nitidamente a presença de letras que objetificam a mulher no gênero samba, como, por exemplo,
-             em Noel Rosa, na letra da canção “Mulher Indigesta”.
+            Em números, hoje o Quebrada acumula mais de 5 milhões de reproduções nas plataformas digitais de música. Uma vitrine e tanto para 
+            quebrar paradigmas e abrir caminhos para que a indústria do rap, que é tradicionalmente machista e homofóbica, vire uma cena para 
+            nomes LGBTQIA+ . “Sempre existiram artistas LGBTQIA+ fazendo rap, mas essa imagem não chegava às massas. O Quebrada é um recorte de um 
+            futuro no presente”, espera Guigo.
             </p>
-            <div class="col-lg-6">
-            <img src="./assets/img/Afroragga.jpg" class="img-fluid" alt="">
-            </div>
+            
           </div>
          
         </div>
@@ -156,9 +158,7 @@ if($_SESSION['cargo_usuario'] != 'Administrador' && $_SESSION['cargo_usuario'] !
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials">
       <div class="container">
-      <h4>Assista o video </h4>
-      <iframe width="560" height="315" src="https://youtu.be/Z7KxWCgEg9Y?si=0OnjlhJ3citlxP8r" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+      
     </section><!-- End Testimonials Section -->
 
        
