@@ -84,6 +84,7 @@ if($_SESSION['cargo_usuario'] != 'Administrador' && $_SESSION['cargo_usuario'] !
   <div class="row d-flex justify-content-center">
           <div class="col-lg-6 text-center">
             <h2>Imagens Batalha do trem</h2>
+            <h6>Sexta edição da Baatalha do trem. Fotos: Deiviane Velho</h6>
           </div>
         </div>
 

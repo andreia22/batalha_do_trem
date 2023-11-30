@@ -104,7 +104,7 @@ if($_SESSION['cargo_usuario'] != 'Administrador' && $_SESSION['cargo_usuario'] !
           <div class="col-lg-6">
             <img src="./img/img_texto3.png" class="img-fluid"  alt="">
             <p></p>
-             <h4>Sons pelo Interior</h4>   
+             <h>Sons pelo Interior</h3>   
             <p class="py-3">
             Participante das oficinas Elas no Beat, a DJ e moradora do município de João Neiva, Lara Pinheiro Nunes, representa o recém-formado
              coletivo Gim, contemplado no Edital 004/2018 - Coletivo Artístico Juvenis, da Secult.  De acordo com Lara, o coletivo está reunindo
